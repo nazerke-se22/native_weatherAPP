@@ -79,7 +79,7 @@ Endpoints used:
 
 ---
 
-# ☁ Firebase Integration
+# Firebase Integration
 
 ## Authentication
 - Anonymous sign-in
